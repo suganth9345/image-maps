@@ -1,0 +1,12 @@
+h2{
+    color: rgb(255, 0, 200);
+    font-size: px;
+    font-family: 'segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+body{
+    background-image: url('fantasy-wallpaper-vaporwave-sunset-mountains_717906-11508.avif');
+    background-size:cover;
+    background-attachment: fixed ;
+}
